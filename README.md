@@ -1,6 +1,6 @@
 
 <div align="center">
-<img border-radius: 15px src="WhatsJulie.png" width="250" height="200"/>
+<img border-radius: 15px src="junior 20211005_133539.jpg" width="250" height="200"/>
 </p>
 
 <div align="center">
